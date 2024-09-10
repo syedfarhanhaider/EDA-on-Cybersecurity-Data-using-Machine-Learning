@@ -59,20 +59,28 @@ The primary objective is to extract insights from cybersecurity attack data and 
 ### Prerequisites
 
 Install the necessary dependencies:
-```bash pip install -r requirements.txt ```
+```bash 
+pip install -r requirements.txt
+```
 
 ### Steps to Run
 
 1. Clone the repository:
-```bash git clone https://github.com/your_username/cybersecurity-attack-analysis.git ```
+```bash
+git clone https://github.com/your_username/cybersecurity-attack-analysis.git
+```
 
-2. Navigate to the directory:
-```bash cd cybersecurity-attack-analysis ```
+3. Navigate to the directory:
+```bash
+cd cybersecurity-attack-analysis
+```
 
-3. Open the Jupyter Notebook:
-```bash jupyter notebook Cybersecurity_Project.ipynb ```
+4. Open the Jupyter Notebook:
+```bash
+jupyter notebook Cybersecurity_Project.ipynb
+```
 
-4. Run the cells to execute the analysis and visualize results.
+6. Run the cells to execute the analysis and visualize results.
 
 ## Future Enhancements
 
